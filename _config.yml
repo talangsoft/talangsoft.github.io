@@ -9,7 +9,7 @@ title:               Talang Soft Limited
 tagline:             ''
 description:         '<a href="http://talangsoft.github.io/">Talang Soft Limited</a> <br/> Happily Coding Ever After'
 url:                 http://talangsoft.github.io/
-baseurl:             ''
+baseurl:             /
 paginate:            5
 
 # About/contact
