@@ -29,12 +29,13 @@
 
 .aboutText{
   background-color: #f9f9f9;
-  max-width: 50%;
+  max-width: 20rem;
+  float:left;
+  margin: 5px;
 }
 
 .aboutText a{
-  padding: 5px;
-  margin: 15px;
+  margin: 4px;
 }
 
 .aboutText img{
@@ -174,14 +175,14 @@ h1, h2, h3, h4, h5, h6 {
 .container {
   max-width: 28rem;
 }
-@media (min-width: 38em) {
+@media (min-width: 40em) {
   .container {
-    max-width: 32rem;
+    max-width: 50rem;
   }
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 50rem;
   }
 }
 
@@ -248,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: .875rem; /* 15px */
+  font-size: 1.125rem; /* 18px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
@@ -256,7 +257,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: 1.125rem; /* 18px */
   }
 }
 
