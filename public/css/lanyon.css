@@ -29,6 +29,7 @@
 
 .aboutText{
   background-color: #f9f9f9;
+  max-width: 50%;
 }
 
 .aboutText a{
@@ -171,16 +172,16 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 50rem;
+  max-width: 28rem;
 }
 @media (min-width: 38em) {
   .container {
-    max-width: 50rem;
+    max-width: 32rem;
   }
 }
-@media (min-width: 45em) {
+@media (min-width: 56em) {
   .container {
-    max-width: 50rem;
+    max-width: 38rem;
   }
 }
 
