@@ -7,6 +7,11 @@ tags:
 - contract driven
 - restapi
 
+description: '<a href="http://apidocjs.com/" target="_blank">Apidoc.js</a> is a great inline documentation tool for RESTful web APIs.<br/>
+             It goes really well with Spring REST applications, you just define your API documentation as inline comments in your classes
+             and execute the <b>apidoc</b> command to parse the source files
+             and generate a static HTML documentation out of them.'
+
 ---
 
 ### Introduction

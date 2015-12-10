@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Behaviour driven REST API development with Spring
+description: 'Bob was sitting desperately in front of a bunch of failing JUnit tests intended to verify the part of the application he just refactored.<br/>
+             The one who wrote them - to be honest it could have been any of us at a certain stage of our life - had the idea that JUnit is
+             somewhat different from production Java:
+             there is no need for code conventions, clean code, comments or whatever that could make the maintainer&#39;s life easier.'
 tags:
 - cucumber
 - gherkin

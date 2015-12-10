@@ -5,6 +5,12 @@ title: Integrate JMS queue into a Spring Application
 tags:
 - spring boot
 - jms queue
+
+description: 'In this blog entry I describe a basic configuration you need to add to your Spring application for listening to jms messages on a queue.<br/>
+              I extend the <a href="https://github.com/tamaslang/book-inventory-boot" target="_blank">book-inventory-boot</a> example with a Jms Listener
+              that receives messages on a queue and based on the Operation header in the message a Delete, Update or a Create is executed.'
+
+
 ---
 
 ### Introduction

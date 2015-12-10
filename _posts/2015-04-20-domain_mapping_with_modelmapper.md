@@ -6,6 +6,12 @@ tags:
 - mapping
 - modelmapper
 
+description:  'Most of the applications define data abstraction layers. Usually
+               the entities of the different layers show some similarities and mapping is required to transform
+               one model to another. <br/>
+               The <a href="http://modelmapper.org/" target="_blank">ModelMapper</a> library
+               can be useful to help you resolve this task.'
+
 ---
 
 ### ModelMapper

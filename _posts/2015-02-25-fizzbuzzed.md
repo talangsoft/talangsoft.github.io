@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Fizz Buzz with Java 8 streams
+description: 'The famous FizzBuzz interview question is used to filter out most of the programmers on a job interview.<br/>
+              It goes like this:'
+              
 ---
 
 The famous FizzBuzz interview question is used to filter out most of the programmers on a job interview.<br/>
