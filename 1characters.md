@@ -4,45 +4,49 @@ title: Characters
 ---
 {% include encrypt_mail.html %}
 
-<div>
-
-<div class="aboutText">
-  <h3 class="contactName">Tamas Lang</h3>
-<p class="message">
-  <img class="morph" src="/assets/contact/profileTL.jpg">
+<div class="profile">
+  <h3 class="profileName">Tamas Lang</h3>
+  <div class="profilePhoto">
+    <img class="profilePic morph" src="/assets/contact/profileTL.jpg">
+  </div>
+  <div class="profileContact">
     <a href="https://uk.linkedin.com/in/tamaslang" class="hvr-buzz-out iconLinkedIn" target="_blank"></a>
     <a href="javascript:linkTo_UnCryptMailto('nbjmup;ubnbt/mbohAubmbohtpgu/psh');" class="hvr-buzz-out iconEmail" target="_blank"></a>
     <a href="https://twitter.com/TmsLng" class="hvr-buzz-out iconTwitter" target="_blank"></a>
     <a href="https://github.com/tamaslang" class="hvr-buzz-out iconGithub" target="_blank"></a>
-  <br/><br/><br/> <br/>
+  </div>
+
+  <div class="message">
     Having 9 years of professional experience in software industry I gained significant knowledge in Java web based application development, design and architecture.
     I designed complex, multilayered systems, implemented projects from sketch with setting up and following high quality standards and achieving maximum customer satisfaction.
 
-  <br/><br/>
+    <br/><br/>
     My main interest lies in designing and developing web based applications, researching new technologies and tools,
     producing clean code, achieving high quality standards, improving processes and helping teams to perform on their best level.
-  </p>
+  </div>
 </div>
 
-<div class="aboutText" >
-  <h3 class="contactName">Timea Molnar</h3>
-  <p class="message">
-  <img class="morph" src="/assets/contact/profileTM.jpg">
-  <a href="https://uk.linkedin.com/in/timeamolnar3" class="hvr-buzz-out iconLinkedIn" target="_blank"></a>
-  <a href="javascript:linkTo_UnCryptMailto('nbjmup;ujnfb/npmobsAubmbohtpgu/psh');" class="hvr-buzz-out iconEmail" target="_blank"></a>
-  <a href="https://twitter.com/montymea" class="hvr-buzz-out iconTwitter" target="_blank"></a>
-  <a href="https://github.com/timeamolnar" class="hvr-buzz-out iconGithub" target="_blank"></a>
-  <br/><br/><br/><br/>
+<div class="profile">
+  <h3 class="profileName">Timea Molnar</h3>
+  <div class="profilePhoto">
+    <img class="profilePic morph" src="/assets/contact/profileTM.jpg">
+  </div>
+  <div class="profileContact">
+    <a href="https://uk.linkedin.com/in/timeamolnar3" class="hvr-buzz-out iconLinkedIn" target="_blank"></a>
+    <a href="javascript:linkTo_UnCryptMailto('nbjmup;ujnfb/npmobsAubmbohtpgu/psh');" class="hvr-buzz-out iconEmail" target="_blank"></a>
+    <a href="https://twitter.com/montymea" class="hvr-buzz-out iconTwitter" target="_blank"></a>
+    <a href="https://github.com/timeamolnar" class="hvr-buzz-out iconGithub" target="_blank"></a>
+  </div>
+  
+  <div class="message">
      Having 8 years of professional experience in software industry first as a Java developer then as a Scrum Master and Agile Coach in different kinds of organisations and teams.
      Working in a startup-like environment and at a big corporation, leading agile transformations and working with teams in Waterfall, Kanban and Scrum methodologies as well.
      <br/><br/>
      I love driving the agile culture with the help of my knowledge in XP, Lean, Kanban and Scrum practices and helping, coaching the teams how to become self-organised.
      <br/>
      I am also a front end developer who loves playing with new technologies.
-     <br/>
-  </p>
+  </div>
 </div>
 
-</div>
 
 

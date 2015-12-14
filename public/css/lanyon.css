@@ -27,28 +27,51 @@
  * Themes
  */
 
-.contactName {
-  margin: auto;
-  width: 60%;
-  padding: 10px;
-}
-
-.aboutText{
+.profile{
   background-color: #f9f9f9;
   max-width: 20rem;
   float:left;
   margin: 5px;
 }
 
-.aboutText a{
-  margin: 4px;
+.profile a{
+  margin: 2px;
 }
 
-.aboutText img{
+.profile .message {
+  clear:both;
+}
+
+.profilePic {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   float: left;
   padding: 5px;
-  margin: 0px 20px 20px 0px;
+  margin: 10px 5px 5px 10px;
+}
+.profilePhoto {
+  display:block;
+  float:left;
+  width:160px
+}
+
+.profileContact {
+  padding-top:20px;
+  display:block;
+  float:left;
+  width:150px;
+  margin-left:20px;
+}
+
+.profileName {
+  padding: 10px;
+}
+
+.profileInfo {
+  margin: 5px;
+}
+
+.clear {
+  clear:both;
 }
 
 img.bg {
@@ -102,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
  * Wrapper
  *
  * The wrapper is used to position site content when the sidebar is toggled. We
- * use an outter wrap to position the sidebar without interferring with the
+ * use an outer wrap to position the sidebar without interfering with the
  * regular page content.
  */
 

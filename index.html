@@ -3,39 +3,58 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
+<h1 class="page-title">Welcome</h1>
+
+<div>
+Talang Soft Limited is a consultancy, specializing in product development, agile coaching and event organization.
+  <br/><br/>
+  Having years and years of experience in software development...
+  <br/><br/>
+  In the past we have worked with several companies like...
+  <br/><br/>
+  Check out our blog posts, Twitter and LinkedIn pages to see what are the things that we care about and are currently working on.
+  <br/><br/>
+  Please do not hesitate to get in touch!
+  <br/>
+  <br/>
+  <hr/>
+
+  <hr/>
+
+  <div class="posts">
+    {% for post in paginator.posts %}
+    <div class="post">
+      <h1 class="post-title">
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h1>
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+      {{ post.description }}
+      <br/>
       <a href="{{ post.url }}">
-        {{ post.title }}
+        More...
       </a>
-    </h1>
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.description }}
-    <br/>
-    <a href="{{ post.url }}">
-    More...
-    </a>
-    <hr/>
+      <hr/>
+    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
-</div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-  <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-  <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-  {% if paginator.page == 2 %}
-  <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-  {% else %}
-  <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-  {% endif %}
-  {% else %}
-  <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+  <div class="pagination">
+    {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+    {% else %}
+    <span class="pagination-item older">Older</span>
+    {% endif %}
+    {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+    <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+    <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+    {% else %}
+    <span class="pagination-item newer">Newer</span>
+    {% endif %}
+  </div>
 
+</div>
