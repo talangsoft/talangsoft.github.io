@@ -16,8 +16,8 @@ title: Find us
 <div>
 	<h2 class="profileName">Online</h2>
 	<div class="message">
-	 <p>Email us: <a href="javascript:linkTo_UnCryptMailto('nbjmup;psbdmfAubmbohtpgu/psh');" class="hvr-buzz-out iconEmail" target="_blank"></a></p>
-	 <p>Follow us on Twitter or LinkedIn.</p>
+	 <p>Email us: <a href="mailTo:contact@talangsoft.org">contact@talangsoft.org</a></p>
+	 <p>Follow us on Twitter: <a href="https://twitter.com/talangsoft" class="hvr-buzz-out iconTwitter" target="_blank"></a></p>
 	</div>
 </div>
 
