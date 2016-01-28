@@ -17,12 +17,11 @@ title: Characters
   </div>
 
   <div class="message">
-    Having 9 years of professional experience in software industry I gained significant knowledge in Java web based application development, design and architecture.
-    I designed complex, multilayered systems, implemented projects from sketch with setting up and following high quality standards and achieving maximum customer satisfaction.
-
+    Having 10 years of professional experience in software industry I confidently design and deliver applications following Agile values.
     <br/><br/>
-    My main interest lies in designing and developing web based applications, researching new technologies and tools,
-    producing clean code, achieving high quality standards, improving processes and helping teams to perform on their best level.
+    I put focus on keeping high quality standards, producing clean, self describing code in a test driven way and leading technical innovation to bring competitive advantage to the customer.
+    <br/><br/>
+    My main interest lies in developing web applications, researching new technologies and tools, improving processes and helping teams to perform on their best level.
   </div>
 </div>
 
@@ -37,7 +36,7 @@ title: Characters
     <a href="https://twitter.com/montymea" class="hvr-buzz-out iconTwitter" target="_blank"></a>
     <a href="https://github.com/timeamolnar" class="hvr-buzz-out iconGithub" target="_blank"></a>
   </div>
-  
+
   <div class="message">
      Having 8 years of professional experience in software industry first as a Java developer then as a Scrum Master and Agile Coach in different kinds of organisations and teams.
      Working in a startup-like environment and at a big corporation, leading agile transformations and working with teams in Waterfall, Kanban and Scrum methodologies as well.
