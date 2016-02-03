@@ -23,7 +23,7 @@ title: Characters
     <br/><br/>
     My main interest lies in developing web applications, researching new technologies and tools, improving processes and helping teams to perform on their best level.
     <br/><br/>
-    CV: <a href="https://docs.google.com/document/d/17hJZbrUoSDaHQkNYnuaHSK6HD_0sEuM30fB8uFF9JFU/pub" class="hvr-buzz-out iconCv" target="_blank"></a>
+    See my profile: <a href="https://docs.google.com/document/d/17hJZbrUoSDaHQkNYnuaHSK6HD_0sEuM30fB8uFF9JFU/pub" class="hvr-buzz-out iconCv" target="_blank"></a>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ title: Characters
      Having 8 years of professional experience in software industry first as a Java developer then as a Scrum Master and Agile Coach in different kinds of organisations and teams.
      Working in a startup-like environment and at a big corporation, leading agile transformations and working with teams in Waterfall, Kanban and Scrum methodologies as well.
      <br/><br/>
-     I love driving the agile culture with the help of my knowledge in XP, Lean, Kanban and Scrum practices and helping, coaching the teams how to become self-organised.
+     I love driving the agile culture with the help of my knowledge in XP, Lean, Kanban and Scrum practices and coaching the teams how to become self-organised.
      <br/>
      I am also a front end developer who loves playing with new technologies.
   </div>
