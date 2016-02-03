@@ -89,6 +89,15 @@
   background: url(/assets/contact/github.png) no-repeat;
 }
 
+
+.hvr-buzz-out.iconCv{
+  width: 64px;
+  height: 64px;
+  border: none;
+  display: inline-block;
+  background: url(/assets/contact/cv.png) no-repeat;
+}
+
 /* Buzz Out */
 @-webkit-keyframes hvr-buzz-out {
   10% {

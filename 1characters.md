@@ -22,6 +22,8 @@ title: Characters
     I put focus on keeping high quality standards, producing clean, self describing code in a test driven way and leading technical innovation to bring competitive advantage to the customer.
     <br/><br/>
     My main interest lies in developing web applications, researching new technologies and tools, improving processes and helping teams to perform on their best level.
+    <br/><br/>
+    CV: <a href="https://docs.google.com/document/d/17hJZbrUoSDaHQkNYnuaHSK6HD_0sEuM30fB8uFF9JFU/pub" class="hvr-buzz-out iconCv" target="_blank"></a>
   </div>
 </div>
 
