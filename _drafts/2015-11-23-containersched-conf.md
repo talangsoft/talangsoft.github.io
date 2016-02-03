@@ -5,7 +5,7 @@ category: conference
 tag: IoT,conference,ThingMonk,RedMonk
 description: THINGMONK conference
 ---
-Even before I went to the [THINGMONK]("http://thingmonk.com/") conference, it was special for me for two reasons:
+Even before I went to the [THINGMONK] (http://thingmonk.com/) conference, it was special for me for two reasons:
 
 - I was working for 6 months on a project that was about Internet of Things
 
