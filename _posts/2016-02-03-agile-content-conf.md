@@ -2,6 +2,10 @@
 layout: post
 title: agile content conf 2016
 category: conference
+author_name: Timea Molnar
+author_email: timea.molnar@talangsoft.org
+author_initials: TM
+
 tag: content,designer,agile,conference,conf,2016,volunteering
 description: 2016 found me at a new company with brand-new teams and at the beginning of an agile transformation, which means that I will face with
              a lot of new challenges that will hopefully lead to new accomplishments as well.

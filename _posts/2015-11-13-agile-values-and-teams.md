@@ -2,6 +2,10 @@
 layout: post
 title: Agile Values and Teams
 category: agile
+author_name: Timea Molnar
+author_email: timea.molnar@talangsoft.org
+author_initials: TM
+
 tag: conference,agile,teams,values,agile values
 description: 'As a really great experience I had the pleasure to think together with <a href="https://twitter.com/allenholub" target="_blank">Allen Holub</a> at the Agile: principles, practices and architecture workshop on
               <a href="http://sddconf.com/deepdive/" target="_blank">SDD Deep Dive</a> conference.
