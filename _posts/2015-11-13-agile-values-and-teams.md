@@ -3,16 +3,16 @@ layout: post
 title: Agile Values and Teams
 category: agile
 tag: conference,agile,teams,values,agile values
-description: 'As a really great experience I had the pleasure to think together with <a href="https://twitter.com/allenholub">Allen Holub</a> at the Agile: principles, practices and architecture workshop on
-              <a href="http://sddconf.com/deepdive/">SDD Deep Dive</a> conference.
+description: 'As a really great experience I had the pleasure to think together with <a href="https://twitter.com/allenholub" target="_blank">Allen Holub</a> at the Agile: principles, practices and architecture workshop on
+              <a href="http://sddconf.com/deepdive/" target="_blank">SDD Deep Dive</a> conference.
               <br/>We discussed a lot of topics in connection with agile, how it is misinterpreted and misused within a lot of companies,
               what useful practices can be used in order to define and develop a team&#39;s own process for working together efficiently
               and the connection between the organisational structure, the working process and the architecture.'
 
 ---
 
-As a really great experience I had the pleasure to think together with <a href="https://twitter.com/allenholub">Allen Holub</a> at the Agile: principles, practices and architecture workshop on
-<a href="http://sddconf.com/deepdive/">SDD Deep Dive</a> conference.
+As a really great experience I had the pleasure to think together with <a href="https://twitter.com/allenholub" target="_blank">Allen Holub</a> at the Agile: principles, practices and architecture workshop on
+<a href="http://sddconf.com/deepdive/" target="_blank">SDD Deep Dive</a> conference.
 <br/>
 We discussed a lot of topics in connection with agile, how it is misinterpreted and misused within a lot of companies,
 what useful practices can be used in order to define and develop a team's own process for working together efficiently

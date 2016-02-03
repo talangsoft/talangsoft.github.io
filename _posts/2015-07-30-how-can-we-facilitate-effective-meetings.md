@@ -7,7 +7,7 @@ description: 'I was always wondering why it is one of the biggest complaint from
               too many meetings that do not represent added value to their work.
               I guess we could easily solve this problem with a change in the mindset of meeting organizers, facilitators and attendees as well...
               SIMPLE STEPS could make a BIG DIFFERENCE in our meeting culture and our meetings could worth the time we spend on them if we would follow the hints below.'
-              
+
 ---
 
 <strong>I was always wondering why it is one of the biggest complaint from software developers that they need to attend
@@ -46,6 +46,6 @@ or prepared to make the needed decisions
 I hope that at least some people will benefit from this post and will have more valuable meetings from now on.
 
 You can read further in the topic here:
-<a href="http://www.forbes.com/sites/forbesleadershipforum/2014/02/05/seven-steps-to-running-the-most-effective-meeting-possible/">Seven Steps for Effective Meetings</a>
+<a href="http://www.forbes.com/sites/forbesleadershipforum/2014/02/05/seven-steps-to-running-the-most-effective-meeting-possible/" target="_blank">Seven Steps for Effective Meetings</a>
 
 TM

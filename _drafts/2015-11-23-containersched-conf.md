@@ -2,21 +2,11 @@
 layout: post
 title: THINGMONK Conference 2015
 category: conference
-tag: IoT,conference,ThingMonk,RedMonk
-description: THINGMONK conference
+tag: container,conference,ContainerSched,scheduler
+description: ContainerSched 2015 conference
 ---
-Even before I went to the [THINGMONK] (http://thingmonk.com/) conference, it was special for me for two reasons:
 
-- I was working for 6 months on a project that was about Internet of Things
-
-- I got a free ticket for the conference from [Women Who Code London] (https://www.womenwhocode.com/london) whose mission
-is to inspire more women to excel in technology careers.
-
-I really liked the nice foods and drinks, the wide variety of speakers, the topics and the venue as well but the best of
-all was the family-like atmosphere during the whole conference.
-
-I also learnt on the conf how much it means to be connected to others, to use every opportunity to network with people
-who has similar fields of interest.
+<a href="https://skillsmatter.com/conferences/7208-containersched-2015/" target="_blank">ContainerSched 2015 conference</a>
 
 TM
 

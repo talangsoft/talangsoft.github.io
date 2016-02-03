@@ -12,7 +12,7 @@ a lot of new challenges that will hopefully lead to new accomplishments as well.
 
 >Watch out for the blog posts about my recent impressions!
 
-Now I would like to write about my first volunteering experience on [agile content conf]("https://2016.agilecontentconf.com/" "agile content conf")
+Now I would like to write about my first volunteering experience on <a href="https://2016.agilecontentconf.com/" target="_blank">agile content conf</a>
 where the participants could learn practices to help teams work together on content.
 
 I worked for two days on the event with a really great team. We did all the neccessary preparations on the day before and managed to host
