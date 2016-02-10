@@ -27,6 +27,10 @@
  * Themes
  */
 
+pre code {
+  font-size: 0.7em;
+}
+
 .profile{
   background-color: #f9f9f9;
   max-width: 20rem;
