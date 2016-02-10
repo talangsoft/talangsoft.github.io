@@ -7,12 +7,11 @@ author_email: tamas.lang@talangsoft.org
 author_initials: TL
 
 tag: code,problem,csharp
-description: 2016 found me at a new company with brand-new teams and at the beginning of an agile transformation, which means that I will face with
-             a lot of new challenges that will hopefully lead to new accomplishments as well.
-             <br/>Watch out for the blog posts about my recent impressions!
+description: Coming across a Daily WTF blog post about an inefficient  C code written somewhere and somewhen
+
 ---
 
-Coming across <a href="http://thedailywtf.com/articles/keeping-regular">this blog post</a> about an unefficient C# code written somewhere and somewhen:
+Coming across <a href="http://thedailywtf.com/articles/keeping-regular">this blog post</a> about an inefficient  C# code written somewhere and somewhen:
 
 {% highlight csharp %}
   for (int i = 0; i <= name.Length - 1; i++) {
@@ -30,15 +29,16 @@ Coming across <a href="http://thedailywtf.com/articles/keeping-regular">this blo
   }
 {% endhighlight %}
 
-The article argues about how regexp is useful and efficient instead of character matching and new String creation. <br/>
+The article suggests to use regexp instead of character matching and to avoid new String creation. <br/>
 
-I think the main problem is that the code is not testable/reusable at all and contains error possibilities, like:
+I think the main problem is more that the code presented is not testable/reusable at all and contains error possibilities, like:
 
 - for loop exit conditions: ```i <= name.Length - 1```
 - accessing of array elements with indexes: ```name[i][j]```
 - maintaining states like: ```sTemp += name[i][j]```
 
-With using a bit more functional approach the above code could easily be rewritten like this:
+But that makes it a good example how to overcome these issues with a more functional approach. <br/>
+The above code could easily be rewritten like this:
 
 {% highlight csharp %}
 private static List<String> simplifyNames(List<String> names) {
