@@ -28,27 +28,31 @@ Coming across <a href="http://thedailywtf.com/articles/keeping-regular">this blo
       name[i] = sTemp;
   }
 {% endhighlight %}
+The code meant to take a list of names and remove every not allowed character from them.
 
-The article suggests to use regexp instead of character matching and to avoid new String creation. <br/>
+```{"John Smith","Not-Allowed"}``` will become ```{"JohnSmith","NotAllowed"}```
 
-I think the main problem is more that the code presented is not testable/reusable at all and contains error possibilities, like:
+The blog post suggests to use regexp instead of character matching and to avoid new String creation.<br/>
+However it seems to be a bigger problem that the code presented here is neither testable nor reusable
+and its structure is not protected against easy to make failures at places like:
 
 - for loop exit conditions: ```i <= name.Length - 1```
 - accessing of array elements with indexes: ```name[i][j]```
 - maintaining states like: ```sTemp += name[i][j]```
 
-But that makes it a good example how to overcome these issues with a more functional approach. <br/>
+But that makes it a good example for how to overcome these issues with a more functional approach.
+
 The above code could easily be rewritten like this:
 
 {% highlight csharp %}
-private static List<String> simplifyNames(List<String> names) {
+public List<String> simplifyNames(List<String> names) {
     return names.Select(name => new String((name.Where(validChar)).ToArray())).ToList();
 }
 {% endhighlight %}
 
 
 {% highlight csharp %}
-private static bool validChar(char c) {
+private bool validChar(char c) {
     return "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_".Contains(c);
 }
 {% endhighlight %}
@@ -57,7 +61,8 @@ private static bool validChar(char c) {
 Pardon my C#, I have never used this language before, so there might be more efficient ways for stuff like creating Strings.<br/> Feel free to comment :-)
 </blockquote>
 
-Less code, less error.
-<a href="http://rextester.com/AVTMMP67746">See full example here.</a>
+The main advantage of this approach is that it requires no states to be maintained, it is expressed using less code and additionally it has a well isolated space for the business logic (the valid characters).
 
+See full example <a href="http://rextester.com/AVTMMP67746">here</a>.
 
+TL
