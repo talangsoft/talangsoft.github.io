@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Contract Driven REST API Design
+author_name: Tamas Lang
+author_email: tamas.lang@talangsoft.org
+author_initials: TL
 
 tags:
 - rest

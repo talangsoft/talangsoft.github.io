@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Integrate JMS queue into a Spring Application
+author_name: Tamas Lang
+author_email: tamas.lang@talangsoft.org
+author_initials: TL
 
 tags:
 - spring boot

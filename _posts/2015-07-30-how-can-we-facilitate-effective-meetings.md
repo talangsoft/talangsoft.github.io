@@ -2,6 +2,10 @@
 layout: post
 title: How Can We Facilitate Effective Meetings?
 category: agile
+author_name: Timea Molnar
+author_email: timea.molnar@talangsoft.org
+author_initials: TM
+
 tag: agile,teams,meetings,effective meetings
 description: 'I was always wondering why it is one of the biggest complaint from software developers that they need to attend
               too many meetings that do not represent added value to their work.

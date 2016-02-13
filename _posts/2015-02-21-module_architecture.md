@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Microservice Module Architecture with Spring boot
+author_name: Tamas Lang
+author_email: tamas.lang@talangsoft.org
+author_initials: TL
+
 description: 'The Spring implementation is presented in a minimalist book inventory app.
               This app offers basic CRUD functionality and some search functionality for handling books via book title and author.<br/>
               The book entities are persisted in an underlying SQL database (in memory) for the sake of simplicity.

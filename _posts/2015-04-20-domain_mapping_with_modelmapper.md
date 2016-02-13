@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Domain Mapping with the ModelMapper library
+author_name: Tamas Lang
+author_email: tamas.lang@talangsoft.org
+author_initials: TL
 
 tags:
 - mapping

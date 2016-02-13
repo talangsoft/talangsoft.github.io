@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Fizz Buzz with Java 8 streams
+author_name: Tamas Lang
+author_email: tamas.lang@talangsoft.org
+author_initials: TL
+
 description: 'The famous FizzBuzz interview question is used to filter out most of the programmers on a job interview.<br/>
               It goes like this:'
-              
+
 ---
 
 The famous FizzBuzz interview question is used to filter out most of the programmers on a job interview.<br/>
