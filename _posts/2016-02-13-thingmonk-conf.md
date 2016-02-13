@@ -5,7 +5,7 @@ category: conference
 tag: IoT,conference,ThingMonk,RedMonk
 description: THINGMONK - DEVELOPERS, DATA, DESIGN - THE NEW INDUSTRIAL
 ---
-<a href="https://thingmonk.com/" target="_blank">ThingMonk</a> is a conference for developers, designers, data wranglers and decision-makers that want to turn
+<a href="http://www.thingmonk.com/" target="_blank">ThingMonk</a> is a conference for developers, designers, data wranglers and decision-makers that want to turn
 ideas and concepts into industrial scale systems. And it really lived up to the expectations.
 
 But let me start with mentioning the two main reasons why the event was special for me even before I attended:
