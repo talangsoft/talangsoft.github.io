@@ -5,11 +5,12 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <p><a href="{{ site.baseurl }}"> {{ site.title }}</a></p>
+    <p><a href="{{ site.baseurl }}"> {{ site.description }}</a></p>
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Welcome</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with

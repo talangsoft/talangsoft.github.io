@@ -5,18 +5,18 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Talang Soft Limited
-tagline:             ''
-description:         '<a href="http://www.talangsoft.org/">Talang Soft Limited</a> <br/> Happily Coding Ever After'
+logo:                '/assets/logo/logo_with_text.png'
+title:               'Talang Soft Limited'
+description:         'Happily Coding Ever After'
 url:                 http://talangsoft.org
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Timea Molnar
-  url:               https://twitter.com/montymea
-  email:             timea.molnar@talangsoft.com
+  name:              Talang Soft Limited
+  url:               https://twitter.com/talangsoft
+  email:             contact@talangsoft.org
 
 # Custom vars
 version:             1.0.1

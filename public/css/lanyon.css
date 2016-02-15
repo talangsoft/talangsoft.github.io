@@ -31,6 +31,12 @@ pre code {
   font-size: 0.75em;
 }
 
+.logo{
+  max-width: 30rem;
+  float:left;
+  margin: 5px;
+}
+
 .profile{
   background-color: #f9f9f9;
   max-width: 20rem;
@@ -52,6 +58,7 @@ pre code {
   padding: 5px;
   margin: 10px 5px 5px 10px;
 }
+
 .profilePhoto {
   display:block;
   float:left;
@@ -169,8 +176,11 @@ h1, h2, h3, h4, h5, h6 {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   border-bottom: 1px solid #eee;
+}
+.masthead-logo {
+  max-width: 20rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -218,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   bottom: 0;
   left: -14rem;
-  width: 14rem;
+  width: 13rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -238,6 +248,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar a {
   font-weight: normal;
   color: #fff;
+  text-decoration: none;
 }
 .sidebar-item {
   padding: 1rem;
@@ -382,7 +393,7 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 /* Blog post or page title */

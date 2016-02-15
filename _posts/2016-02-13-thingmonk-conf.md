@@ -1,7 +1,10 @@
 ---
 layout: post
 title: THINGMONK Conference 2015
-category: conference
+author_name: Timea Molnar
+author_email: timea.molnar@talangsoft.org
+author_initials: TM
+
 tag: IoT,conference,ThingMonk,RedMonk
 description: THINGMONK - DEVELOPERS, DATA, DESIGN - THE NEW INDUSTRIAL
 ---
