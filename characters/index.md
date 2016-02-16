@@ -40,12 +40,10 @@ title: Characters
   </div>
 
   <div class="message">
-     Having 8 years of professional experience in software industry first as a Java developer then as a Scrum Master and Agile Coach in different kinds of organisations and teams.
-     Working in a startup-like environment and at a big corporation, leading agile transformations and working with teams in Waterfall, Kanban and Scrum methodologies as well.
-     <br/><br/>
-     I love driving the agile culture with the help of my knowledge in XP, Lean, Kanban and Scrum practices and coaching the teams how to become self-organised.
-     <br/>
-     I am also a front end developer who loves playing with new technologies.
+     Having 8 years of professional experience in software industry first as Java developer then Scrum Master and Agile Coach in different kinds of organisations and teams, leading the agile transformation in startup-like environments and big corporations as well.
+     <br/><br/> I love driving the cultural change with the help of XP, Lean, Kanban and Scrum practices and coaching the teams how to become self-organised.
+     <br/><br/>I am also a front end developer who loves discovering new technologies.
+     <br/><br/>See my profile: <a href="https://docs.google.com/document/d/1hYSY-3vmh69kgPYe7RmpHSX_UF7tNrFJ8cNbD1wWQO8/pub" class="hvr-buzz-out iconCv" target="_blank"></a>
   </div>
 </div>
 
