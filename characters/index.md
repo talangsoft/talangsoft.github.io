@@ -23,7 +23,7 @@ title: Characters
     <br/><br/>
     My main interest lies in developing web applications, researching new technologies and tools, improving processes and helping teams to perform on their best level.
     <br/><br/><br/>
-    See my profile: <a href="https://docs.google.com/document/d/17hJZbrUoSDaHQkNYnuaHSK6HD_0sEuM30fB8uFF9JFU/pub" class="hvr-buzz-out iconCv" target="_blank"></a>
+    See my profile: <a href="https://docs.google.com/document/d/1YaOK6VF033W8RBDzOqHG6d4rkIxrNfkVJuPRRS32N8Q/edit?usp=sharing" class="hvr-buzz-out iconCv" target="_blank"></a>
   </div>
 </div>
 
