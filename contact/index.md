@@ -9,7 +9,7 @@ title: Find us
   <h2 class="profileName">In person</h2>
   <div class="message">
    <p>We are currently located in the heart of London, United Kingdom.</p>
-   <p>Get in touch and we can organize a meeting.</p>
+   <p>Get in touch to find out what we can build together.</p>
   </div>
 </div>
 

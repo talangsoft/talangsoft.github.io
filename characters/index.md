@@ -22,8 +22,7 @@ title: Characters
     I put focus on keeping high quality standards, producing clean, self describing code in a test driven way and leading technical innovation to bring competitive advantage to the customer.
     <br/><br/>
     My main interest lies in developing web applications, researching new technologies and tools, improving processes and helping teams to perform on their best level.
-    <br/><br/><br/>
-    See my profile: <a href="https://docs.google.com/document/d/17hJZbrUoSDaHQkNYnuaHSK6HD_0sEuM30fB8uFF9JFU/pub" class="hvr-buzz-out iconCv" target="_blank"></a>
+    <br/><br/>
   </div>
 </div>
 
@@ -42,8 +41,7 @@ title: Characters
   <div class="message">
      Having 9 years of professional experience in software industry first as Java developer then Scrum Master and Agile Coach in different kinds of organisations and teams.
      <br/><br/>I like driving the cultural change within organisations with coaching teams to become self-organised and training them about XP, Lean, Kanban and Scrum practices. I also love bringing people together with the help of organising open spaces and conferences where ideas and knowledge can be shared openly.
-     <br/><br/>I am also passionate about front end development.
-     <br/><br/>See my profile: <a href="https://docs.google.com/document/d/1fhewPxxBsEI1apRaaTnLIzqzj6MJ7rzpyqHFEqJ8T0g/pub" class="hvr-buzz-out iconCv" target="_blank"></a>
+     <br/><br/>I am also passionate about UI/UX design and front end development.
   </div>
 </div>
 
