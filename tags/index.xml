@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Talang Soft Limited</title>
+    <link>https://www.talangsoft.org/tags/</link>
+    <description>Recent content in Tags on Talang Soft Limited</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.talangsoft.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>agile</title>
+      <link>https://www.talangsoft.org/tags/agile/</link>
+      <pubDate>Sun, 10 Dec 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://www.talangsoft.org/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feedback</title>
+      <link>https://www.talangsoft.org/tags/feedback/</link>
+      <pubDate>Sun, 10 Dec 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://www.talangsoft.org/tags/feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>https://www.talangsoft.org/tags/coding/</link>
+      <pubDate>Fri, 12 Feb 2016 11:00:59 -0400</pubDate>
+      
+      <guid>https://www.talangsoft.org/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional programming</title>
+      <link>https://www.talangsoft.org/tags/functional-programming/</link>
+      <pubDate>Fri, 12 Feb 2016 11:00:59 -0400</pubDate>
+      
+      <guid>https://www.talangsoft.org/tags/functional-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://www.talangsoft.org/tags/programming/</link>
+      <pubDate>Fri, 12 Feb 2016 11:00:59 -0400</pubDate>
+      
+      <guid>https://www.talangsoft.org/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
