@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talang Soft Limited</title>
+    <link>https://www.talangsoft.org/</link>
+    <description>Recent content on Talang Soft Limited</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.talangsoft.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Feedback &#39;Culture&#39;?</title>
+      <link>https://www.talangsoft.org/post/chapter-1/</link>
+      <pubDate>Sun, 10 Dec 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://www.talangsoft.org/post/chapter-1/</guid>
+      <description>I have been reading the book ‘Thanks for the Feedback’ by Douglas Stone and Sheila Heen and it got me thinking… How interesting it is that from the moment we are born and starting to understand the world around us, we are getting feedbacks and it seems that even when we are 80, we still cannot receive them well. And it is not only happening with negative feedbacks, we can also feel uneasy when someone is praising us.</description>
+    </item>
+    
+    <item>
+      <title>Functional approach in C#</title>
+      <link>https://www.talangsoft.org/post/chapter-2/</link>
+      <pubDate>Fri, 12 Feb 2016 11:00:59 -0400</pubDate>
+      
+      <guid>https://www.talangsoft.org/post/chapter-2/</guid>
+      <description>Coming across this blog post about an inefficient C# code written somewhere and somewhen:
+String sTemp = &amp;quot;&amp;quot;; for (int j = 0; j &amp;lt;= name[i].Length - 1; j++) { if (&amp;quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&amp;quot;.Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.
+{&amp;quot;John Smith&amp;quot;,&amp;quot;Not-Allowed&amp;quot;} will become {&amp;quot;JohnSmith&amp;quot;,&amp;quot;NotAllowed&amp;quot;}
+The blog post suggests to use regexp instead of character matching and to avoid new String creation.</description>
+    </item>
+    
+  </channel>
+</rss>
