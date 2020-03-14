@@ -171,9 +171,7 @@
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Coming across this blog post about an inefficient C# code written somewhere and somewhen:
-String sTemp = &quot;&quot;; for (int j = 0; j &lt;= name[i].Length - 1; j++) { if (&quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&quot;.Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.
-{&quot;John Smith&quot;,&quot;Not-Allowed&quot;} will become {&quot;JohnSmith&quot;,&quot;NotAllowed&quot;}
-The blog post suggests to use regexp instead of character matching and to avoid new String creation.
+for (int i = 0; i &lt;= name.Length - 1; i++) { String sTemp = &quot;&quot;; for (int j = 0; j &lt;= name[i].Length - 1; j++) { if (&quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&quot; .Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.
     </div>
   </div>
 </div>
@@ -218,9 +216,7 @@ The blog post suggests to use regexp instead of character matching and to avoid 
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Coming across this blog post about an inefficient C# code written somewhere and somewhen:
-String sTemp = &quot;&quot;; for (int j = 0; j &lt;= name[i].Length - 1; j++) { if (&quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&quot;.Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.
-{&quot;John Smith&quot;,&quot;Not-Allowed&quot;} will become {&quot;JohnSmith&quot;,&quot;NotAllowed&quot;}
-The blog post suggests to use regexp instead of character matching and to avoid new String creation.
+for (int i = 0; i &lt;= name.Length - 1; i++) { String sTemp = &quot;&quot;; for (int j = 0; j &lt;= name[i].Length - 1; j++) { if (&quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&quot; .Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.
     </div>
   </div>
 </div>
@@ -243,9 +239,7 @@ The blog post suggests to use regexp instead of character matching and to avoid 
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Coming across this blog post about an inefficient C# code written somewhere and somewhen:
-String sTemp = &quot;&quot;; for (int j = 0; j &lt;= name[i].Length - 1; j++) { if (&quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&quot;.Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.
-{&quot;John Smith&quot;,&quot;Not-Allowed&quot;} will become {&quot;JohnSmith&quot;,&quot;NotAllowed&quot;}
-The blog post suggests to use regexp instead of character matching and to avoid new String creation.
+for (int i = 0; i &lt;= name.Length - 1; i++) { String sTemp = &quot;&quot;; for (int j = 0; j &lt;= name[i].Length - 1; j++) { if (&quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&quot; .Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.
     </div>
   </div>
 </div>

@@ -27,9 +27,7 @@
       
       <guid>https://www.talangsoft.org/post/chapter-2/</guid>
       <description>Coming across this blog post about an inefficient C# code written somewhere and somewhen:
-String sTemp = &amp;quot;&amp;quot;; for (int j = 0; j &amp;lt;= name[i].Length - 1; j++) { if (&amp;quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&amp;quot;.Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.
-{&amp;quot;John Smith&amp;quot;,&amp;quot;Not-Allowed&amp;quot;} will become {&amp;quot;JohnSmith&amp;quot;,&amp;quot;NotAllowed&amp;quot;}
-The blog post suggests to use regexp instead of character matching and to avoid new String creation.</description>
+for (int i = 0; i &amp;lt;= name.Length - 1; i++) { String sTemp = &amp;quot;&amp;quot;; for (int j = 0; j &amp;lt;= name[i].Length - 1; j++) { if (&amp;quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&amp;quot; .Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.</description>
     </item>
     
   </channel>
