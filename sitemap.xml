@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>https://www.talangsoft.org/post/chapter-2/</loc>
+    <lastmod>2020-06-18T12:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.talangsoft.org/tags/coaching/</loc>
     <lastmod>2020-06-18T12:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -25,13 +32,6 @@
   
   <url>
     <loc>https://www.talangsoft.org/tags/feedback/</loc>
-    <lastmod>2020-06-18T12:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.talangsoft.org/post/chapter-2/</loc>
     <lastmod>2020-06-18T12:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
