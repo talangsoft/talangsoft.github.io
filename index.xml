@@ -6,10 +6,32 @@
     <description>Recent content on Talang Soft Limited</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Dec 2017 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 12:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://www.talangsoft.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Our Feedback &#39;Culture&#39;?</title>
+      <link>https://www.talangsoft.org/post/chapter-2/</link>
+      <pubDate>Thu, 18 Jun 2020 12:58:08 -0400</pubDate>
+      
+      <guid>https://www.talangsoft.org/post/chapter-2/</guid>
+      <description>Our feedback ‘culture’? (Part two)
+A long time has passed since the first part of this blog was posted and meanwhile I had the opportunity to see the ways of working in even more organisations and work with a lot of people with different backgrounds. I also started raising two wonderful children.
+The journey of helping teams deliver fast while cooperating well and the challenges of motherhood made me think about our feedback culture even more and I would like to share my ideas with you here.</description>
+    </item>
+    
+    <item>
+      <title>Our Feedback &#39;Culture&#39;?</title>
+      <link>https://www.talangsoft.org/post/chapter-3/</link>
+      <pubDate>Thu, 18 Jun 2020 12:58:08 -0400</pubDate>
+      
+      <guid>https://www.talangsoft.org/post/chapter-3/</guid>
+      <description>Introduction to Solution Focused Brief Coaching
+This post is a short introduction to solution focused thinking and coaching and gives you tips on how it can be used in the workplace to reach your goal and stay motivated.
+First I would like to start by defining what coaching means in the current context since it is a really widely used term nowadays. It means creating a safe place for people to be able to concentrate on their goals, to find their own way with their resources and to plan the next steps.</description>
+    </item>
     
     <item>
       <title>Our Feedback &#39;Culture&#39;?</title>
@@ -18,16 +40,6 @@
       
       <guid>https://www.talangsoft.org/post/chapter-1/</guid>
       <description>I have been reading the book ‘Thanks for the Feedback’ by Douglas Stone and Sheila Heen and it got me thinking… How interesting it is that from the moment we are born and starting to understand the world around us, we are getting feedbacks and it seems that even when we are 80, we still cannot receive them well. And it is not only happening with negative feedbacks, we can also feel uneasy when someone is praising us.</description>
-    </item>
-    
-    <item>
-      <title>Functional approach in C#</title>
-      <link>https://www.talangsoft.org/post/chapter-2/</link>
-      <pubDate>Fri, 12 Feb 2016 11:00:59 -0400</pubDate>
-      
-      <guid>https://www.talangsoft.org/post/chapter-2/</guid>
-      <description>Coming across this blog post about an inefficient C# code written somewhere and somewhen:
-for (int i = 0; i &amp;lt;= name.Length - 1; i++) { String sTemp = &amp;quot;&amp;quot;; for (int j = 0; j &amp;lt;= name[i].Length - 1; j++) { if (&amp;quot;QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm0123456789_&amp;quot; .Contains(name[i][j])) { sTemp += name[i][j]; } } name[i] = sTemp; } The code meant to take a list of names and remove every not allowed character from them.</description>
     </item>
     
   </channel>
